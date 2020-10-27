@@ -1,4 +1,6 @@
 # Test
-This is a test
+Bman here,
+I am setting up my very first github repository.
+It is called test.
 
-Setup
+
